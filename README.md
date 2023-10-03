@@ -35,7 +35,7 @@ En este desafío, el objetivo es utilizar un dataset de comentarios de clientes 
 
 # Desafío 6: Bot QA
 
-En este desafío, nos centramos en entrenar un mini Q&A chatbot para responder preguntas. Utilizamos datos disponibles del challenge ConvAI2 de conversaciones en ingles. Para mejorar el rendimiento del modelo, realizamos dos pruebas: una utilizando el conjunto de datos balanceados y otra implementando oversampling para abordar desequilibrios y mejorar la calidad de las respuestas generadas. 
+En este desafío, nos centramos en entrenar un chatbot para responder preguntas. Utilizamos datos disponibles del challenge ConvAI2 de conversaciones en inglés. Para mejorar el rendimiento del modelo, realizamos dos pruebas: una utilizando el conjunto de datos balanceados y otra implementando oversampling para abordar desequilibrios y mejorar la calidad de las respuestas generadas. La arquitectura adoptada es encoder-decoder, haciendo uso de Embeddings y celdas LSTM para lograr respuestas lo mas coherentes posibles.
 
 [Ver el cuaderno de Jupyter](https://github.com/paulacentioni/NLP-CEIA/blob/main/6_bot_qa.ipynb)
 
