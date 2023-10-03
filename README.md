@@ -7,5 +7,6 @@ En este repositorio se encuentran los desafios realizados durante el cursado de 
 Este desafío tiene como finalidad presentar algunos conceptos y herramientas de PLN. Se realizó la vectorizacion de documentos utilizando OneHotEncoding y TF-IDF.
 Con estas técnicas representamos documentos como una secuencia de vectores numéricos y luego utilizamos la similitud del coseno para calcular su similitud semantica.
 
-**Archivo:** [1a - vectorizacion.ipynb](1a - vectorizacion.ipynb)
+[Ver el cuaderno de Jupyter](https://github.com/paulacentioni/NLP-CEIA/blob/main/1a%20-%20vectorizacion.ipynb)
+
 
