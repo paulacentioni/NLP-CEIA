@@ -17,7 +17,7 @@ En este desafío, se abordó la tarea de desarrollar un chatbot mediante el uso 
 
 # Desafío 3: Embeddings con Gesim
 
-En este desafío, nos enfocamos en generar embeddings de palabras con Gensim, una técnica utilizada para transformar palabras y frases en vectores numéricos reales. Utilizamos como dataset el libro "[Los juegos del hambre]" (https://github.com/paulacentioni/NLP-CEIA/blob/main/hungergames.txt) aplicando Gensim para crear representaciones numéricas que capturan el significado y el contexto profundo de la narrativa. 
+En este desafío, nos enfocamos en generar embeddings de palabras con Gensim, una técnica utilizada para transformar palabras y frases en vectores numéricos reales. Utilizamos como dataset el libro [Los juegos del hambre](https://github.com/paulacentioni/NLP-CEIA/blob/main/hungergames.txt) aplicando Gensim para crear representaciones numéricas que capturan el significado y el contexto profundo de la narrativa. 
 
 [Ver el cuaderno de Jupyter](https://github.com/paulacentioni/NLP-CEIA/blob/main/3b_Custom_embedding_con_Gensim.ipynb)
 
@@ -30,6 +30,7 @@ El propósito de este desafío es emplear documentos para crear embeddings de pa
 # Desafío 5: Sentiment analysis con Embeddings + LSTM
 
 En este desafío, el objetivo es utilizar un dataset de comentarios de clientes de un eCommerce, para entrenar un modelo que sea capaz de predecir la evaluación en cantidad de estrellas del comprador utilizando como input el texto de crítica. 
+
 [Ver el cuaderno de Jupyter](https://github.com/paulacentioni/NLP-CEIA/blob/main/5_clothing_ecommerce_reviews.ipynb)
 
 # Desafío 6: Bot QA
